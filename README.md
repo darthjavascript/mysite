@@ -1,1 +1,1 @@
-# mysite
+This is a simple number guessing game I have built with the help of a javascript tutorial found here: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
